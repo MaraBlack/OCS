@@ -6,7 +6,7 @@
 	},
 	"sEntity": "Theme",
 	"sId": "ocsbelize",
-	"sLabel": "OCS vs. Belize 1.63",
+	"sLabel": "OCS vs. Belize",
 	"oExtends": "UR.silverlight.sap_belize",
 	"aBuildFiles": [
 		"standards",

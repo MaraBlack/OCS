@@ -1,0 +1,22 @@
+{
+	"default": {
+		"_sap_f_Card_Content_Padding": "1rem",
+		"_sap_f_Card_Header_Icon_Color": "#6a6d70",
+		"_sap_f_Card_Header_Border_Bottom": "1px solid rgba(204,204,204,0.8)",
+		"_sap_f_Card_Header_Hover_Color": "rgba(250,250,250,0.8)",
+		"_sap_f_Card_Header_Active_Color": "rgba(247,247,247,0.8)",
+		"_sap_f_Avatar_Color": "#fff",
+		"_sap_f_FlexibleColumnLayout_ButtonBackground": "rgba(247,247,247,0.7)",
+		"_sap_f_FlexibleColumnLayout_ButtonHoverBackground": "rgba(235,235,235,0.7)"
+	},
+	"scopes": {
+		"sapContrast": {
+			"_sap_f_Card_Header_Icon_Color": "#cae4fb",
+			"_sap_f_Card_Header_Border_Bottom": "1px solid #69859d",
+			"_sap_f_Card_Header_Hover_Color": "#435667",
+			"_sap_f_Card_Header_Active_Color": "#45596a",
+			"_sap_f_FlexibleColumnLayout_ButtonBackground": "#45596a",
+			"_sap_f_FlexibleColumnLayout_ButtonHoverBackground": "#4f667a"
+		}
+	}
+}
